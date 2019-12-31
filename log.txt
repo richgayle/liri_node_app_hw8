@@ -1,0 +1,12 @@
+========Begin Movie Log Entry========
+Movie title:The Matrix
+Year released1999
+========Begin Movie Log Entry========
+Movie title:Casino
+Year released1995
+========Begin Movie Log Entry========
+Movie title:Rocky
+Year released1976
+========Begin Movie Log Entry========
+Movie title:I Am Legend
+Year released2007
